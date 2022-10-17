@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'teste-pezzetti'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E2652D708A1408BBE6AEBE6315A81AF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_238278744108469D9CD79947C3D756C9 }}
           package: .
